@@ -1,5 +1,9 @@
-# sentence_clustering
+# Sentence_Clustering
 
-Unsupervised clustering of sentences using Sequence to Sequence architecture and KMeans
+Clustering of similar sentences.
 
-word2vec + LSTM(Encoder) + LSTM(Decoder)
+Unsupervised Data.
+
+Models Used: Auto Encoder Architecture and KMeans clustering
+
+Word2Vec + LSTM(Encoder) + LSTM(Decoder)
